@@ -1,0 +1,5 @@
+interface:
+  display_name: "DingTalk DWS Integration"
+  short_description: "Reusable DingTalk DWS authorization and document workflows"
+  brand_color: "#1677FF"
+  default_prompt: "Use $dingtalk-dws-integration to design and safely integrate DingTalk DWS capabilities for this application."

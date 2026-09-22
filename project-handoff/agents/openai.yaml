@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目迁移交接"
+  short_description: "一键生成项目状态摘要与可复制的新对话迁移交接提示词"
+  default_prompt: "Use $project-handoff to prepare a compact, factual handoff for this project."

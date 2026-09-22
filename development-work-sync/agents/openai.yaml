@@ -1,0 +1,3 @@
+interface:
+  display_name: "Development Work Sync"
+  short_description: "Summarize development work and sync it to a PM system"

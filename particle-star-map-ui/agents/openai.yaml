@@ -1,0 +1,5 @@
+interface:
+  display_name: "粒子星图 UI"
+  short_description: "构建可复用的粒子星图关系网络 UI 工作流"
+  default_prompt: "Use $particle-star-map-ui to build or migrate a particle-style star-map relationship UI."
+  brand_color: "#3B82F6"
