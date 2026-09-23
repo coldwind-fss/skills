@@ -2,7 +2,7 @@
 
 ## 源码基线与适用边界
 
-依据：2026-09-22 的 IT 项目协作空间工作区。主要来源为 `package.json`、`.env/vite.config.ts`、`.env/tailwind.config.js`、`.env/tsconfig.json`、`src/main.ts`、`src/router/index.ts`、`src/index.css`、`src/components/` 和代表性页面。下文的源路径用于追溯，不要求目标项目存在这些文件。
+依据：2026-09-22 的现有协作系统工作区。主要来源为 `package.json`、`.env/vite.config.ts`、`.env/tailwind.config.js`、`.env/tsconfig.json`、`src/main.ts`、`src/router/index.ts`、`src/index.css`、`src/components/` 和代表性页面。下文的源路径用于追溯，不要求目标项目存在这些文件。
 
 版本号是源工程声明范围，不代表最新版本推荐；实际安装版本由其 lockfile 决定。新项目采用其他版本时核对兼容性；已有工程无需为视觉复用升级依赖。
 
