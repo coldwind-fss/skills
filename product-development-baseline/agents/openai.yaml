@@ -1,0 +1,7 @@
+interface:
+  display_name: "产品开发基线"
+  short_description: "在 AI 辅助应用开发中维护业务技术基线与变更验收"
+  default_prompt: "Use $product-development-baseline to inspect this application’s baseline, identify the current work scope, and plan or implement it with clear acceptance evidence."
+
+policy:
+  allow_implicit_invocation: true

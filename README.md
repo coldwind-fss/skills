@@ -6,6 +6,7 @@
 
 | Skill | 用途 |
 | --- | --- |
+| `product-development-baseline` | 在 AI 辅助应用开发中维护业务/技术基线、工作计划和验收状态 |
 | `development-work-sync` | 将开发对话整理为结构化工作记录，并同步到项目管理 API |
 | `dingtalk-dws-integration` | 设计、验证和安全部署钉钉 DWS CLI 集成 |
 | `admin-frontend-design-system` | 复用通用管理系统的布局、组件、颜色和 CSS 视觉规范 |
