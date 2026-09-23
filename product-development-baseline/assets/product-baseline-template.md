@@ -14,6 +14,9 @@
 
 ## Business baseline
 
+- Review status: `Draft | Proposed | Confirmed | Needs revision`
+- Confirmed by / date:
+
 ### Users, problem, and scope
 
 - Target users and context:
@@ -38,6 +41,8 @@
 
 ## Technical baseline
 
+- Review status: `Draft | Proposed | Confirmed | Needs revision`
+- Confirmed by / date:
 - Technology and environment constraints:
 - Architecture style and module responsibilities:
 - Data ownership and database/change approach:
@@ -46,6 +51,8 @@
 - Technical assumptions, proposals, and open decisions:
 
 ## Delivery plan and acceptance
+
+- Review status: `Draft | Proposed | Confirmed | Needs revision`
 
 Chosen implementation order and reason (for example, environment/database/backend-first, module-first, or an end-to-end slice):
 

@@ -21,6 +21,8 @@ If the request is narrow, apply only relevant checks. Do not require a full PRD,
 
 For a new application, establish the business intent before settling implementation details: clarify the product problem and scope, design the important workflows, and model the in-scope domain objects and relationships. Review that business baseline before defining the architecture and shared API conventions. Then prepare the overall delivery plan and its acceptance direction. If the user has already confirmed these decisions in an earlier session, use them and continue from the next unfinished part instead of restarting discovery. Do not make virtual-environment setup a prerequisite for product analysis.
 
+Present each new-project baseline as a reviewable proposal. Move from business baseline to technical baseline, then to the overall delivery plan and implementation, using the user's review as the decision gate. The user may explicitly review and approve several of these together; preserve that approval and do not ask again for the same scope. For an existing application, review only the affected baseline and current work package unless the user requests a broader reassessment.
+
 ## Maintain the business and technical baselines
 
 Keep one clear entry point for the current confirmed intent, by default `docs/PRODUCT_BASELINE.md`. Link supporting documents such as a detailed workflow, ER diagram, architecture note, or OpenAPI file when they improve readability. If the project already has authoritative documents elsewhere, link and maintain those instead of duplicating them.
